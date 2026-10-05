@@ -1,0 +1,2378 @@
+{
+  "total": 222,
+  "bundled": 157,
+  "external": 65,
+  "entries": [
+    {
+      "name": "brainstorming",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/brainstorming",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "diagnosing-superpowers",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/diagnosing-superpowers",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/dispatching-parallel-agents",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "executing-plans",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/executing-plans",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/finishing-a-development-branch",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "receiving-code-review",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/receiving-code-review",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "subagent-driven-development",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/subagent-driven-development",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "test-driven-development",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/test-driven-development",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "using-git-worktrees",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/using-git-worktrees",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "using-superpowers",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/using-superpowers",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "verification-before-completion",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/verification-before-completion",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "writing-plans",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/writing-plans",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "angular-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/angular-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "api-designer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/api-designer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "architecture-designer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/architecture-designer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "atlassian-mcp",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/atlassian-mcp",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "chaos-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/chaos-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "cli-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/cli-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "cloud-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/cloud-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "code-documenter",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/code-documenter",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "cpp-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/cpp-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "csharp-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/csharp-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "database-optimizer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/database-optimizer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "devops-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/devops-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "django-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/django-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "django-storages-s3",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/django-storages-s3",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "dotnet-core-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/dotnet-core-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "embedded-systems",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/embedded-systems",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "fastapi-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/fastapi-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "feature-forge",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/feature-forge",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "fine-tuning-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/fine-tuning-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "flutter-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/flutter-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "fullstack-guardian",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/fullstack-guardian",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/game-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "golang-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/golang-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "graphql-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/graphql-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "java-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/java-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "javascript-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/javascript-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "kotlin-specialist",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/kotlin-specialist",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "kubernetes-specialist",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/kubernetes-specialist",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "laravel-specialist",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/laravel-specialist",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "legacy-modernizer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/legacy-modernizer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "mcp-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/mcp-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "microservices-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/microservices-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "ml-pipeline",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/ml-pipeline",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "monitoring-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/monitoring-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "nestjs-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/nestjs-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "nextjs-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/nextjs-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "pandas-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/pandas-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "php-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/php-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "postgres-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/postgres-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "prompt-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/prompt-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "python-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/python-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "rag-architect",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/rag-architect",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "rails-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/rails-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "rust-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/rust-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "salesforce-developer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/salesforce-developer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "secure-code-guardian",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/secure-code-guardian",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "security-reviewer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/security-reviewer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "shopify-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/shopify-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "spark-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/spark-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "spec-miner",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/spec-miner",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "spring-boot-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/spring-boot-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "sql-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/sql-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "sre-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/sre-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "swift-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/swift-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "terraform-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/terraform-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "test-master",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/test-master",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "the-fool",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/the-fool",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "typescript-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/typescript-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "vue-expert-js",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/vue-expert-js",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "vue-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/vue-expert",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "websocket-engineer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/websocket-engineer",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "wordpress-pro",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/wordpress-pro",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "web-artifacts-builder",
+      "sources": [
+        {
+          "repo": "anthropics/skills",
+          "path": "skills/web-artifacts-builder",
+          "ref": "683bc88e56f3e09ba94f7055977f3d3aa499f202"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "vercel-react-view-transitions",
+      "sources": [
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/react-view-transitions",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "web-design-guidelines",
+      "sources": [
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/web-design-guidelines",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "writing-guidelines",
+      "sources": [
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/writing-guidelines",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "handoff",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "handoff",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-admin-tools-observability",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-admin-tools-observability",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-analytics-instrumentation",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-analytics-instrumentation",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-animation-audio-feedback",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-animation-audio-feedback",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-asset-pipeline",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-asset-pipeline",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-code-maintenance-refactor",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-code-maintenance-refactor",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-combat-systems",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-combat-systems",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-community-ops",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-community-ops",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-creator-store-security-audit",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-creator-store-security-audit",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-debugging-bugfix",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-debugging-bugfix",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-economy-balancing",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-economy-balancing",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-game-development-lifecycle",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-game-development-lifecycle",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-game-ideas",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-game-ideas",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-game-ux",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-game-ux",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-genre-patterns",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-genre-patterns",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-growth-marketing",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-growth-marketing",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-liveops-roadmap",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-liveops-roadmap",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-localization-accessibility",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-localization-accessibility",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-mobile-playtest",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-mobile-playtest",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-monetization-optimization",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-monetization-optimization",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-performance-optimization",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-performance-optimization",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-playtest-qa",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-playtest-qa",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-policy-compliance",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-policy-compliance",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-publishing-discovery",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-publishing-discovery",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-quest-progression-systems",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-quest-progression-systems",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-release-operations",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-release-operations",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-retention-monetization",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-retention-monetization",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-security-economy",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-security-economy",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-social-systems",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-social-systems",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-studio-workflow",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-studio-workflow",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-to-issues",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-to-issues",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-to-prd",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-to-prd",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-triage",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-triage",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-world-level-design",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-world-level-design",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "setup-roblox-skills",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "setup-roblox-skills",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "zoom-out",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "zoom-out",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "luau-performance",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/luau/luau-performance",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-api",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-api",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-cloud",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-cloud",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-networking",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-networking",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-oauth",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-oauth",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-toolchain",
+      "sources": [
+        {
+          "repo": "afrxo/roblox-agent-skills",
+          "path": "skills/roblox-toolchain",
+          "ref": "ff50be7a8a000a24c0f85254e1747a0eb35d857f"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-ci-release",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-ci-release",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-commands-scripting",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-commands-scripting",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-datapack",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-datapack",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-essentials-ops",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-essentials-ops",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-imagegen",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-imagegen",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-multiloader",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-multiloader",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-plugin-dev",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-plugin-dev",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-resource-pack",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-resource-pack",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-server-admin",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-server-admin",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-testing",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-testing",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-world-generation",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-world-generation",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-worldedit-ops",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-worldedit-ops",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "differential-review",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/differential-review/skills/differential-review",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "mutation-testing",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/mutation-testing/skills/mutation-testing",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "post-patch-validation",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/post-patch-validation/skills/post-patch-validation",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "property-based-testing",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/property-based-testing/skills/property-based-testing",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "sharp-edges",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/sharp-edges/skills/sharp-edges",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "codeql",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/static-analysis/skills/codeql",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "sarif-parsing",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/static-analysis/skills/sarif-parsing",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "semgrep",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/static-analysis/skills/semgrep",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "supply-chain-risk-auditor",
+      "sources": [
+        {
+          "repo": "trailofbits/skills",
+          "path": "plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor",
+          "ref": "82fe8226252622fa807643bdca1710901198553a"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "luau-development",
+      "sources": [
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/luau/luau-core",
+          "guide": "references/sources/luumenlabs/luau-core/GUIDE.md",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        },
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/luau/luau-types",
+          "guide": "references/sources/luumenlabs/luau-types/GUIDE.md",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        },
+        {
+          "repo": "afrxo/roblox-agent-skills",
+          "path": "skills/luau-expert",
+          "guide": "references/sources/afrxo/luau-expert/GUIDE.md",
+          "ref": "ff50be7a8a000a24c0f85254e1747a0eb35d857f"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-luau-architecture",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-luau-architecture",
+          "guide": "references/sources/AshExplained/roblox-luau-architecture/GUIDE.md",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        },
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-core",
+          "guide": "references/sources/luumenlabs/roblox-core/GUIDE.md",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        },
+        {
+          "repo": "afrxo/roblox-agent-skills",
+          "path": "skills/roblox-dev",
+          "guide": "references/sources/afrxo/roblox-dev/GUIDE.md",
+          "ref": "ff50be7a8a000a24c0f85254e1747a0eb35d857f"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-datastore-persistence",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-datastore-persistence",
+          "guide": "references/sources/AshExplained/roblox-datastore-persistence/GUIDE.md",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        },
+        {
+          "repo": "luumenlabs/luau-skills",
+          "path": "skills/roblox/roblox-data",
+          "guide": "references/sources/luumenlabs/roblox-data/GUIDE.md",
+          "ref": "6550b6b4c36390b759b4a9ee04783a343c5883e2"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-ui-implementation",
+      "sources": [
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "roblox-ui-implementation",
+          "guide": "references/sources/AshExplained/roblox-ui-implementation/GUIDE.md",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        },
+        {
+          "repo": "afrxo/roblox-agent-skills",
+          "path": "skills/roblox-ui",
+          "guide": "references/sources/afrxo/roblox-ui/GUIDE.md",
+          "ref": "ff50be7a8a000a24c0f85254e1747a0eb35d857f"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "react-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/react-expert",
+          "guide": "references/sources/Jeffallan/react-expert/GUIDE.md",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        },
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/react-best-practices",
+          "guide": "references/sources/vercel-labs/vercel-react-best-practices/GUIDE.md",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        },
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/composition-patterns",
+          "guide": "references/sources/vercel-labs/vercel-composition-patterns/GUIDE.md",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "react-native-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/react-native-expert",
+          "guide": "references/sources/Jeffallan/react-native-expert/GUIDE.md",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        },
+        {
+          "repo": "vercel-labs/agent-skills",
+          "path": "skills/react-native-skills",
+          "guide": "references/sources/vercel-labs/vercel-react-native-skills/GUIDE.md",
+          "ref": "063bee94c3f4df8453406c830b0a7df0f2860278"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "systematic-debugging",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/systematic-debugging",
+          "guide": "references/sources/obra/systematic-debugging/GUIDE.md",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        },
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/debugging-wizard",
+          "guide": "references/sources/Jeffallan/debugging-wizard/GUIDE.md",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "playwright-expert",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/playwright-expert",
+          "guide": "references/sources/Jeffallan/playwright-expert/GUIDE.md",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        },
+        {
+          "repo": "anthropics/skills",
+          "path": "skills/webapp-testing",
+          "guide": "references/sources/anthropics/webapp-testing/GUIDE.md",
+          "ref": "683bc88e56f3e09ba94f7055977f3d3aa499f202"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "minecraft-modding",
+      "sources": [
+        {
+          "repo": "Jahrome907/minecraft-agent-skills",
+          "path": ".agents/skills/minecraft-modding",
+          "guide": "references/sources/Jahrome907/minecraft-modding/GUIDE.md",
+          "ref": "dd57c5a97741cdc0eb5bb3a8f876581a4f09eeb0"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "writing-skills",
+      "sources": [
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/writing-skills",
+          "guide": "references/sources/obra/writing-skills/GUIDE.md",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        },
+        {
+          "repo": "AshExplained/roblox-skills",
+          "path": "write-a-skill",
+          "guide": "references/sources/AshExplained/write-a-skill/GUIDE.md",
+          "ref": "a3a7b940f0899d4a69c1a7df625996bdfc917388"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "code-reviewer",
+      "sources": [
+        {
+          "repo": "Jeffallan/claude-skills",
+          "path": "skills/code-reviewer",
+          "guide": "references/sources/Jeffallan/code-reviewer/GUIDE.md",
+          "ref": "1be15d8064f88fc25216442406d40add8fd23b53"
+        },
+        {
+          "repo": "obra/superpowers",
+          "path": "skills/requesting-code-review",
+          "guide": "references/sources/obra/requesting-code-review/GUIDE.md",
+          "ref": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "sources": [
+        {
+          "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "path": ".claude/skills/ui-ux-pro-max",
+          "guide": "references/sources/nextlevelbuilder/ui-ux-pro-max/GUIDE.md",
+          "ref": "477bcb28c9812b385cb51a4605ddf30d7b2266e2"
+        },
+        {
+          "repo": "anthropics/skills",
+          "path": "skills/frontend-design",
+          "guide": "references/sources/anthropics/frontend-design/GUIDE.md",
+          "ref": "683bc88e56f3e09ba94f7055977f3d3aa499f202"
+        }
+      ],
+      "merged": true,
+      "availability": "bundled"
+    },
+    {
+      "name": "imagegen",
+      "availability": "bundled",
+      "license": "Apache-2.0",
+      "sources": [
+        {
+          "repo": "openai/skills",
+          "path": ".system/imagegen"
+        }
+      ]
+    },
+    {
+      "name": "openai-docs",
+      "availability": "bundled",
+      "license": "Apache-2.0",
+      "sources": [
+        {
+          "repo": "openai/skills",
+          "path": ".system/openai-docs"
+        }
+      ]
+    },
+    {
+      "name": "skill-creator",
+      "availability": "bundled",
+      "license": "Apache-2.0",
+      "sources": [
+        {
+          "repo": "openai/skills",
+          "path": ".system/skill-creator"
+        }
+      ]
+    },
+    {
+      "name": "skill-installer",
+      "availability": "bundled",
+      "license": "Apache-2.0",
+      "sources": [
+        {
+          "repo": "openai/skills",
+          "path": ".system/skill-installer"
+        }
+      ]
+    },
+    {
+      "name": "review-agent",
+      "availability": "host-provided",
+      "installation": "Provided by the Codex host; no redistribution license verified."
+    },
+    {
+      "name": "shopify:shopify-admin",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-app-pricing",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-app-store-review",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-custom-data",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-customer",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-dev",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-functions",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-hydrogen",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-liquid",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-onboarding-dev",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-onboarding-merchant",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-partner",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-payments-apps",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-polaris-admin-extensions",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-polaris-app-home",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-polaris-checkout-extensions",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-polaris-customer-account-extensions",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-pos-ui",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-shopifyql",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-storefront-graphql",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:shopify-use-shopify-cli",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "shopify:ucp",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:character-design",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:cinematography",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:commercial",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-gamedev",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-media",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-models-catalog",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-prompting",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-recipes",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-regenerate-3d",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fal-workflow",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:fan-cam",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:marketing",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:model-routing",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:storytelling",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "fal:ugc",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-code-connect",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-create-new-file",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-design-to-code",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-generate-design",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-generate-diagram",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-generate-library",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-generative-plugins",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-implement-motion",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-shaders",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-swiftui",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-use",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-use-figjam",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-use-motion",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "figma:figma-use-slides",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "documents:documents",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "pdf:pdf",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "spreadsheets:Spreadsheets",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "spreadsheets:excel-live-control",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "presentations:Presentations",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "template-creator:template-creator",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "computer-use:computer-use",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "visualize:visualize",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "work-pets:create-pet",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "work-pets:pets",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "work-pets:update-pet",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "plugin-management:plugin-management",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "sites:sites",
+      "availability": "official-plugin",
+      "installation": "Install the official plugin in ChatGPT/Codex.",
+      "url": "https://chatgpt.com/plugins"
+    }
+  ],
+  "omissions": [
+    {
+      "source": "zerodegress/minecraft-modding-skills",
+      "reason": "No redistribution license found. Fabric support remains available through the licensed Minecraft guide."
+    }
+  ]
+}
