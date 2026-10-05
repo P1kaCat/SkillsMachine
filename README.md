@@ -1,8 +1,8 @@
 # SkillsMachine
 
-Private collection of development skills for Codex, including Roblox/Luau, Minecraft, interface design, architecture, testing, security and code review.
+Private collection of development and finance skills for Codex, including Roblox/Luau, Minecraft, interface design, architecture, testing, security and code review.
 
-**157 installable skills**, including the 153 development skills (12 complementary merges) and 4 Apache-licensed system skills. [The complete catalog](CATALOG.md) inventories **222 skills**; the remaining 65 are installed through official plugins or supplied by the host. Copying a skill does not connect accounts or provide plugin APIs.
+**166 installable skills**, including the 153 development skills (12 complementary merges) 9 finance skills and 4 Apache-licensed system skills. [The complete catalog](CATALOG.md) inventories **231 skills**; the remaining 65 are installed through official plugins or supplied by the host. Copying a skill does not connect accounts or provide plugin APIs.
 
 ## Install
 
@@ -34,3 +34,9 @@ Install the plugins listed in [CATALOG.md](CATALOG.md) through the official Chat
 ## Sources and licensing
 
 [catalog.json](catalog.json) records provenance and availability. Read [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and each skill's license before reuse or redistribution. Private sharing also requires redistribution permission. The unlicensed Fabric supplement is excluded; the licensed Minecraft modding guide still covers Fabric. No proprietary plugin source is bundled.
+
+## Finance skills
+
+Bundled: `zero-based-budget`, `subscription-audit`, `financial-goals`, `cash-flow-forecast`, `break-even-calc`, `pricing-optimizer`, `yfinance-data`, `company-valuation`, `earnings-recap`.
+
+Budget and business skills support CSV/manual input without Wilson. Market research skills require Python and yfinance, installed when used. Examples may use US conventions; use the user's currency and jurisdiction for actual analyses.

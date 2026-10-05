@@ -16,3 +16,8 @@ Pinned source revisions:
 - https://github.com/trailofbits/skills/tree/82fe8226252622fa807643bdca1710901198553a
 
 The unlicensed zerodegress Fabric supplement is excluded. Plugin materials are not copied: redistribution permission could not be verified, and Documents explicitly restricts redistribution. Use official installations instead. See catalog.json for per-skill provenance.
+
+Finance skills (MIT, licenses included in each skill directory):
+
+- https://github.com/openaccountant/skills/tree/f5abe381f24b5b7d59f1d0b4a825b14494ff2034
+- https://github.com/himself65/finance-skills/tree/01fc7b4b34aeb1d1fb3ae9e6e809d46df9d87e30

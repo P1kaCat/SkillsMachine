@@ -1,6 +1,6 @@
 # Skill catalog
 
-222 inventoried skills: 157 bundled, 65 supplied through official plugins or the host.
+231 inventoried skills: 166 bundled, 65 supplied through official plugins or the host.
 
 | Skill | Availability |
 | --- | --- |
@@ -226,3 +226,12 @@
 | work-pets:update-pet | official-plugin |
 | plugin-management:plugin-management | official-plugin |
 | sites:sites | official-plugin |
+| zero-based-budget | bundled |
+| subscription-audit | bundled |
+| financial-goals | bundled |
+| cash-flow-forecast | bundled |
+| break-even-calc | bundled |
+| pricing-optimizer | bundled |
+| yfinance-data | bundled |
+| company-valuation | bundled |
+| earnings-recap | bundled |

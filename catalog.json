@@ -1,6 +1,6 @@
 {
-  "total": 222,
-  "bundled": 157,
+  "total": 231,
+  "bundled": 166,
   "external": 65,
   "entries": [
     {
@@ -2367,6 +2367,114 @@
       "availability": "official-plugin",
       "installation": "Install the official plugin in ChatGPT/Codex.",
       "url": "https://chatgpt.com/plugins"
+    },
+    {
+      "name": "zero-based-budget",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "personal/zero-based-budget",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "subscription-audit",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "personal/subscription-audit",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "financial-goals",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "personal/financial-goals",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "cash-flow-forecast",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "business/cash-flow-forecast",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "break-even-calc",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "business/break-even-calc",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "pricing-optimizer",
+      "sources": [
+        {
+          "repo": "openaccountant/skills",
+          "path": "business/pricing-optimizer",
+          "ref": "f5abe381f24b5b7d59f1d0b4a825b14494ff2034"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "yfinance-data",
+      "sources": [
+        {
+          "repo": "himself65/finance-skills",
+          "path": "plugins/market-analysis/skills/yfinance-data",
+          "ref": "01fc7b4b34aeb1d1fb3ae9e6e809d46df9d87e30"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "company-valuation",
+      "sources": [
+        {
+          "repo": "himself65/finance-skills",
+          "path": "plugins/market-analysis/skills/company-valuation",
+          "ref": "01fc7b4b34aeb1d1fb3ae9e6e809d46df9d87e30"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "earnings-recap",
+      "sources": [
+        {
+          "repo": "himself65/finance-skills",
+          "path": "plugins/market-analysis/skills/earnings-recap",
+          "ref": "01fc7b4b34aeb1d1fb3ae9e6e809d46df9d87e30"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
     }
   ],
   "omissions": [
