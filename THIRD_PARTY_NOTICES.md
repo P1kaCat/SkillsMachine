@@ -21,3 +21,13 @@ Finance skills (MIT, licenses included in each skill directory):
 
 - https://github.com/openaccountant/skills/tree/f5abe381f24b5b7d59f1d0b4a825b14494ff2034
 - https://github.com/himself65/finance-skills/tree/01fc7b4b34aeb1d1fb3ae9e6e809d46df9d87e30
+
+Game creation and Blender collections added on 2026-10-08:
+
+- https://github.com/gamedev-skills/awesome-gamedev-agent-skills/tree/d4b0e35550c55ae70bdfcab4ef5a0e94610438a9
+- https://github.com/arjun988/blender-skills/tree/8f778d2405a214b508d4c7d80742be8e43acdd52
+- https://github.com/poorvith-mp/skills-gamedev/tree/d661d370a67c4532034e3d1d87c4aec237077f34
+
+The gamedev-skills collection is Apache 2.0; its LICENSE and NOTICE are preserved in every included skill. The arjun988 and poorvith-mp collections are MIT; licenses are preserved in every included skill. Blender shared references are copied into each skill and relative paths are adjusted, as recorded in PACKAGING_NOTES.md.
+
+The user-authored blender-lpm-skill is included with explicit author permission for this private repository. This does not grant a public redistribution license. See its PROVENANCE.md.

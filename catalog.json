@@ -1,6 +1,6 @@
 {
-  "total": 231,
-  "bundled": 166,
+  "total": 444,
+  "bundled": 379,
   "external": 65,
   "entries": [
     {
@@ -2475,6 +2475,2846 @@
       ],
       "merged": false,
       "availability": "bundled"
+    },
+    {
+      "name": "ai-behavior-trees-utility-ai",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/ai-behavior-trees-utility-ai",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "analog-found-footage-horror",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/analog-found-footage-horror",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "animation",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/animation",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "anime-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/anime-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "anti-cheat",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/anti-cheat",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "apocalypse-worlds",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/apocalypse-worlds",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "archviz",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/archviz",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "asset-optimization",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/asset-optimization",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "audio-design",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/audio-design",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "bevy-ecs",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/bevy-ecs",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "biome-worlds",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/biome-worlds",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "blender-add-on-engineer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/blender-add-on-engineer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "blender-animation",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/blender-animation",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "blender-director",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/blender-director",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "blender-lpm-skill",
+      "sources": [
+        {
+          "kind": "user-authored",
+          "author": "P1kaCat",
+          "path": "blender-lpm-skill",
+          "redistribution_authorized": "2026-10-08"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "license": "No public license granted; included with author permission."
+    },
+    {
+      "name": "blender-modeler",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/blender-modeler",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "blender-modeling",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/blender-modeling",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "blender-tooling",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/blender-tooling",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "body-horror-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/body-horror-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "brutalist-mood",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/brutalist-mood",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "camera-cinematography",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/camera-cinematography",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "camera-systems",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/camera-systems",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "card-game",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/card-game",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "cartoon-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/cartoon-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "character-archetypes",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/character-archetypes",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "character-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/character-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "chibi-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/chibi-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "cloth-sim",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/cloth-sim",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "collision-proxy",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/collision-proxy",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "comic-book-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/comic-book-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "compositing",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/compositing",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "cosmic-eldritch-horror",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/cosmic-eldritch-horror",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "cozy-wholesome-mood",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/cozy-wholesome-mood",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "create-game-assets",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/create-game-assets",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "creature-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/creature-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "dark-gritty-mood",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/dark-gritty-mood",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "dialogue-systems",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/dialogue-systems",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "dream-surreal-mood",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/dream-surreal-mood",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "dream-weirdcore-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/dream-weirdcore-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "environment-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/environment-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "export-pipeline",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/export-pipeline",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "fantasy-worlds",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/fantasy-worlds",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "folk-horror-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/folk-horror-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "fps-shooter",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/fps-shooter",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "frutiger-aero-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/frutiger-aero-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "game-ai",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-ai",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-audio",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-audio",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-audio-engineer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-audio-engineer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-build-pipeline",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-build-pipeline",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-design",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-design",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-designer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-designer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-feel",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/game-feel",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-ideation",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-ideation",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-jam",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/workflows/game-jam",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-monetization",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-monetization",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-monetization-designer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-monetization-designer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-performance",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-performance",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-ui",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-ui",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-ui-ux",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/game-ui-ux",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "game-version-control",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/game-version-control",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "genre-action-combat",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-action-combat",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-card-party-idle",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-card-party-idle",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-metroidvania-roguelike",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-metroidvania-roguelike",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-narrative-vn",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-narrative-vn",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-open-world-sandbox",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-open-world-sandbox",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-puzzle-platformer",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-puzzle-platformer",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-racing-sports",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-racing-sports",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-rpg",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-rpg",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-shooter",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-shooter",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-soulslike",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-soulslike",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-stealth",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-stealth",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-strategy-sim",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-strategy-sim",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "genre-survival",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/genre-survival",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "geometry-nodes",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/geometry-nodes",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "godot-2d-movement",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-2d-movement",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-3d-essentials",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-3d-essentials",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-animation",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-animation",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-audio",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-audio",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-csharp",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-csharp",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-export",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/godot-export",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "godot-gameplay-scripter",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/godot-gameplay-scripter",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-gdscript",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-gdscript",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-gdscript-headless-testing",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-gdscript-headless-testing",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-multiplayer",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-multiplayer",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-multiplayer-engineer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/godot-multiplayer-engineer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-nodes-scenes",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-nodes-scenes",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-physics",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-physics",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-resources",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-resources",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-shader-developer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/godot-shader-developer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-shaders",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-shaders",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-signals-groups",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-signals-groups",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-tilemap",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-tilemap",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "godot-ui-control",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/godot/godot-ui-control",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "hair-groom",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/hair-groom",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "hand-painted-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/hand-painted-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "hard-surface",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/hard-surface",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "hd-2d-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/hd-2d-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "historical-worlds",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/historical-worlds",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "horror-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/horror-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "indie-horror-aesthetics",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/indie-horror-aesthetics",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "input-systems",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/input-systems",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "isometric-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/isometric-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "itch-publish",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/workflows/itch-publish",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "level-design",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/level-design",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "level-designer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/level-designer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "lighting",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/lighting",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "liminal-space-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/liminal-space-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "lod-pipeline",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/lod-pipeline",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "lookdev",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/lookdev",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "love2d-core",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/love2d-core",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "lowpoly-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/lowpoly-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "manga-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/manga-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "mascot-puppet-horror",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/mascot-puppet-horror",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "materials",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/materials",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "minimalist-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/minimalist-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "narrative-design",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/narrative-design",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "narrative-designer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/narrative-designer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "neon-retrofuturism",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/neon-retrofuturism",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "noir-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/noir-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "painterly-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/painterly-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "performance-optimization",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/performance-optimization",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "phaser-arcade-physics",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/phaser-arcade-physics",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "phaser-core",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/phaser-core",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "physics-sim",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/physics-sim",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "physics-tuning",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/physics-tuning",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "pixel-art-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/pixel-art-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "pixijs-rendering",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/pixijs-rendering",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "platformer",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/platformer",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "playtest-feedback-analyzer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/playtest-feedback-analyzer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "playtesting",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/playtesting",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "procedural-gen",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/procedural-gen",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "procedural-modeling",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/procedural-modeling",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "production-planning",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/production-planning",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "prop-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/prop-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "prototype-fast",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/workflows/prototype-fast",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "psx-horror-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/psx-horror-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "puzzle",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/puzzle",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "pygame-core",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/pygame-core",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "qa-review",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/qa-review",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "realistic-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/realistic-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "rendering",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/rendering",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "retopology",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/retopology",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "retro-16bit-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/retro-16bit-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "retro-8bit-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/retro-8bit-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "rigging",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/rigging",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "roblox-avatar-creator",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/roblox-avatar-creator",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-characters",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/roblox-characters",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-datastores",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/roblox-datastores",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-experience-designer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/roblox-experience-designer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-luau",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/roblox-luau",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-physics",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/roblox-physics",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-systems-scripter",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/roblox-systems-scripter",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roblox-ui",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/other-engines/roblox-ui",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "roguelike",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/roguelike",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "router",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "router",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "rpg",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/rpg",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "save-systems",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/save-systems",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "scene-assembly",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/scene-assembly",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "sci-fi-punk-worlds",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/sci-fi-punk-worlds",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "sculpting",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/sculpting",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "set-dressing",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/set-dressing",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "shader-programming",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/disciplines/shader-programming",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "steam-publish",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/workflows/steam-publish",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "stop-motion-craft-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/stop-motion-craft-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "stylized-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/stylized-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "survival-crafting",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/survival-crafting",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "tech-art",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/tech-art",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "technical-artist",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/technical-artist",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "texture-workflow",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/texture-workflow",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "threejs-gltf-loading",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/threejs-gltf-loading",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "threejs-materials-lighting",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/threejs-materials-lighting",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "threejs-scene-setup",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/web-engines/threejs-scene-setup",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "tower-defense",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/tower-defense",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-animation",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-animation",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-architect",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-architect",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-architecture",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-architecture",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-build-pipeline",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-build-pipeline",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-csharp-scripting",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-csharp-scripting",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-editor-tool-developer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-editor-tool-developer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-export",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/unity-export",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "unity-input-system",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-input-system",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-multiplayer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-multiplayer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-multiplayer-engineer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-multiplayer-engineer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-navmesh",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-navmesh",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-physics",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-physics",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-scriptableobjects",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-scriptableobjects",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-shader-graph-artist",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-shader-graph-artist",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-shaders",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-shaders",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-tilemap-2d",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unity/unity-tilemap-2d",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unity-tooling",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unity-tooling",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-behavior-trees",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-behavior-trees",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-blueprints",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-blueprints",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-cpp-gameplay",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-cpp-gameplay",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-enhanced-input",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-enhanced-input",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-export",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/unreal-export",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "unreal-multiplayer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-multiplayer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-multiplayer-architect",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-multiplayer-architect",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-niagara",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-niagara",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-packaging",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/unreal/unreal-packaging",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-systems",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-systems",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-systems-engineer",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-systems-engineer",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-tech-art",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-tech-art",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-technical-artist",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-technical-artist",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-world-builder",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-world-builder",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "unreal-worlds",
+      "sources": [
+        {
+          "repo": "poorvith-mp/skills-gamedev",
+          "path": "skills/unreal-worlds",
+          "ref": "d661d370a67c4532034e3d1d87c4aec237077f34"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "uv-workflow",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/uv-workflow",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "vector-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/vector-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "vegetation-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/vegetation-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "vehicle-artist",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/vehicle-artist",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "vfx-fx",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/vfx-fx",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "visual-console-eras",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/visual-console-eras",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
+    },
+    {
+      "name": "visual-novel",
+      "sources": [
+        {
+          "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+          "path": "skills/genres/visual-novel",
+          "ref": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled"
+    },
+    {
+      "name": "voxel-style",
+      "sources": [
+        {
+          "repo": "arjun988/blender-skills",
+          "path": ".claude/skills/voxel-style",
+          "ref": "8f778d2405a214b508d4c7d80742be8e43acdd52"
+        }
+      ],
+      "merged": false,
+      "availability": "bundled",
+      "modifications": [
+        "Shared Blender references included inside each skill; ../references/ links made skill-local."
+      ]
     }
   ],
   "omissions": [
